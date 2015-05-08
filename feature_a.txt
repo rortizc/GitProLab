@@ -1,0 +1,5 @@
+This is the featureA
+This is the featureA
+This is the featureA
+New line in feature A
+Another one.
